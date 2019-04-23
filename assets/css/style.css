@@ -1,0 +1,42 @@
+html {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;   
+}
+
+.card-body {
+  font-size: 50px;
+  background-color: orange;
+  color: white;
+  font-display: bold;
+  
+}
+.myClass {
+  font-size: 20px;
+}
+
+#myId {
+  font-size: 40px;
+}
+
+.list-group-item {
+  background-color: cornsilk;
+  color: green;
+  width: 400px;
+}
+    
+body {
+  background-color: aqua;
+}
+
+
+
+.image-div {
+    width: 40px;
+    height: 40px;
+    float: left;
+    
+}
+
+#lead{
+    
+}
