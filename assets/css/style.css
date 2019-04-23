@@ -37,6 +37,9 @@ body {
     
 }
 
-#lead{
-    
+.yourscore {
+  float: left;
+  background-color: green;
+  color: red;
 }
+    
